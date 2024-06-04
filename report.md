@@ -28,5 +28,21 @@
 Кое-что произошло и придется изменить конфигурацию PostgreSQL:
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/811deaee-bad9-4a7d-bc09-1e4595419b13)
 
+Я долго промучился прежде, чем войти в свою баху данных, а оказывается, что необходимо писать название с нижним регистром:
+![image](https://github.com/TKirovAl/JavaProject/assets/93568292/1ce3c54d-480b-4807-bb0d-93532a7d5f81)
+
+Создаем таблицы и добавляем записи:
+![image](https://github.com/TKirovAl/JavaProject/assets/93568292/69ab9588-d6e9-4d85-9bcd-619a372228b5)
+
+ТА-ДА! Вот она таблица, вот они записи:
+![image](https://github.com/TKirovAl/JavaProject/assets/93568292/38791c29-b577-4b64-b37c-5937080ae26d)
+
+Соотвественно, и вторую таблицу по тз сделаем)
+
+
+
+
+
+
 
 

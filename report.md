@@ -40,8 +40,11 @@
 Соотвественно, и вторую таблицу по тз сделаем:
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/3b53ff0c-b790-4e2c-970f-e0336261670f)
 
-Теперь нужно усатновить Maven. Ссылка прилагается:
-https://maven.apache.org/download.cgi
+Теперь нужно усатновить Maven. ~~Ссылка прилагается:
+https://maven.apache.org/download.cgi~~
+Сделаем это командой sudo apt install maven.
+
+
 
 
 

@@ -37,7 +37,12 @@
 ТА-ДА! Вот она таблица, вот они записи:
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/38791c29-b577-4b64-b37c-5937080ae26d)
 
-Соотвественно, и вторую таблицу по тз сделаем)
+Соотвественно, и вторую таблицу по тз сделаем:
+![image](https://github.com/TKirovAl/JavaProject/assets/93568292/3b53ff0c-b790-4e2c-970f-e0336261670f)
+
+Теперь нужно усатновить Maven. Ссылка прилагается:
+https://maven.apache.org/download.cgi
+
 
 
 

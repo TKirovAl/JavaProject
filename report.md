@@ -25,3 +25,8 @@
 
 База данных, кстати, создается при помощи команды `CREATE DATABASE "имя"`
 
+Кое-что произошло и придется изменить конфигурацию PostgreSQL:
+![image](https://github.com/TKirovAl/JavaProject/assets/93568292/811deaee-bad9-4a7d-bc09-1e4595419b13)
+
+
+

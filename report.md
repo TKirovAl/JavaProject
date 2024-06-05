@@ -84,7 +84,7 @@ https://maven.apache.org/download.cgi~~
 Connection:
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/fdb40e66-bacf-4e59-9773-61f9c6f729b0)
 
-Переходи в vs code, а конкретнее во вкладку "Database":
+Переходим в vs code, а конкретнее во вкладку "Database":
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/8d7266a3-5d2e-4548-a089-809adf9ceb75)
 
 Что-то знакомое... Кажется я разбирался с подключением вручную, через терминал и файлы конфигуарции, но рапорт товарища Самойлова указал мне верный путь:

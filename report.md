@@ -74,6 +74,8 @@ https://maven.apache.org/download.cgi~~
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/e00a36e2-bd1f-420a-be35-5208c1e495b6)
 
 Гугл - установить - работаем:
+
+
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/f2997b8f-09d7-4666-9abf-5943e4182e60)
 
 Возвращаемся к работе с SQL:

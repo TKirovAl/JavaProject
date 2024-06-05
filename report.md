@@ -103,9 +103,10 @@ Connection:
 Успех!
 ![image](https://github.com/TKirovAl/JavaProject/assets/93568292/86dac88b-d84f-4103-b755-a361644770a6)
 
+Тестируем и ву-аля:
+![image](https://github.com/TKirovAl/JavaProject/assets/93568292/e7141be2-1b6c-48cc-aa3d-bfa9d8234fae)
 
-
-
+Теперь можно задуматься и об ипотеке для айтишников ;)
 
 
 
